@@ -1,4 +1,4 @@
-# 📡 ShadowLocator v5.0 - [ AHMED PRO ]
+# 📡 ShadowLocator v5.0 
 > **Advanced Browser Geolocation Latency & API Accuracy Testing Dashboard.**
 
 ---
