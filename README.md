@@ -3,6 +3,16 @@
 
 ---
 
+---
+
+## 📸 Demo Preview
+
+![Demo1](demo1.jpg)
+
+![Demo2](demo2.jpg)
+
+![Demo3](demo3.jpg)
+
 ## 🛡️ Authorization & Ethical Use
 **CONFIRMATION:** I have explicit permission and am fully authorized to perform security testing and pentesting on the assets and environments where this tool is deployed. This utility is created strictly for **Authorized Pentesting**, **Educational Research**, and **Device Compatibility Verification**.
 
