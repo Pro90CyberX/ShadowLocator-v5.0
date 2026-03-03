@@ -37,23 +37,27 @@
 
 ---
 
-## 📥 Environment Setup
-```bash
-# Update and install dependencies
-pkg install python cloudflared git -y
-pip install requests
+## 📥 Download & Installation
 
-# Clone secure repository
-git clone https://github.com/YourNewUser/ShadowLocator.git
-cd ShadowLocator
+### Termux
+git clone https://github.com/Pro90CyberX/ShadowLocator-v5.0.git
+cd ShadowLocator-v5.0
+python app.py
 
-# Initialize controller
-python app_controller.py
+---
 
-## Legal Notice
-This project is intended strictly for local testing, educational purposes, and authorized research environments only.
+## 📞 Contact & Support
 
-The software must not be used to collect, transmit, or monitor location data without the explicit and informed consent of the device owner.
+If you have any questions, suggestions, or collaboration ideas, feel free to reach out.
 
-Any unauthorized deployment, tracking, or misuse is strictly prohibited. The developer (AHMED PRO) assumes no liability for improper or illegal usage.
+<p align="center">
+  
+  <a href="https://t.me/pro90qq">
+    <img src="https://img.shields.io/badge/Telegram-@pro90qq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 
+</p>
+
+---
+
+⭐ If you like this project, don’t forget to star the repository!
